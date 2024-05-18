@@ -1,0 +1,1 @@
+# Nest.js + MongoDB + RabbitMQ
